@@ -13,7 +13,7 @@ Showcasing signature brews, artisan blends, and the barista passion that fuels e
 
 ## 📸 Preview
 
-![Brewvana Coffee Site Preview](preview-image.png)  
+![Brewvana Coffee Site Preview](images/BrewvanaPreviewpng)  
 _A clean, elegant, and responsive website for coffee lovers._
 
 ---
@@ -57,7 +57,7 @@ Brewvana-Coffee-Site/
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/Brewvana-Coffee-Site.git
+   git clone https://github.com/akhilsoni04/Brewvana-Coffee-Site.git
 
 2. Open index.html in your browser
 
