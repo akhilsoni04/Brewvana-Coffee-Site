@@ -13,7 +13,7 @@ Showcasing signature brews, artisan blends, and the barista passion that fuels e
 
 ## 📸 Preview
 
-![Brewvana Coffee Site Preview](images/BrewvanaPreviewpng)  
+![Brewvana Coffee Site Preview](images/BrewvanaPreview.png)  
 _A clean, elegant, and responsive website for coffee lovers._
 
 ---
